@@ -1,0 +1,35 @@
+{
+    "faturamento_diario": [
+        {"dia": 1, "valor": 274.164},
+        {"dia": 2, "valor": 247.668},
+        {"dia": 3, "valor": 269.664},
+        {"dia": 4, "valor": 0.0},
+        {"dia": 5, "valor": 0.0},
+        {"dia": 6, "valor": 262.662},
+        {"dia": 7, "valor": 0.0},
+        {"dia": 8, "valor": 489.225},
+        {"dia": 9, "valor": 451.174},
+        {"dia": 10, "valor": 191.472},
+        {"dia": 11, "valor": 224.164},
+        {"dia": 12, "valor": 237.668},
+        {"dia": 13, "valor": 239.614},
+        {"dia": 14, "valor": 0.0},
+        {"dia": 15, "valor": 0.0},
+        {"dia": 16, "valor": 742.662},
+        {"dia": 17, "valor": 0.0},
+        {"dia": 18, "valor": 489.258},
+        {"dia": 19, "valor": 461.134},
+        {"dia": 20, "valor": 191.472},
+        {"dia": 21, "valor": 274.164},
+        {"dia": 22, "valor": 537.669},
+        {"dia": 23, "valor": 239.613},
+        {"dia": 24, "valor": 0.0},
+        {"dia": 25, "valor": 0.0},
+        {"dia": 26, "valor": 242.612},
+        {"dia": 27, "valor": 0.0},
+        {"dia": 28, "valor": 489.258},
+        {"dia": 29, "valor": 451.674},
+        {"dia": 30, "valor": 191.422}
+        
+    ]
+}
